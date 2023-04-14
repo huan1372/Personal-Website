@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: CS Ph.D. @ UIUC (They/Them)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+related_posts: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Shan! I am a 1st year Ph.D. student working with [Geoffrey Herman](http://publish.illinois.edu/glherman/). I am interested in how to use software tools to **interact** with students to improve **computer science education**. In addition, I also focus on the evaluation of students’ performance mainly **quantitively**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am current working on [MeetingMayhem](https://github.com/UMBC-MeetingMayhem/MeetingMayhem), an **cybersecurity** education game to teach students Dolev–Yao model and adversary thinking. I've been working on various educational **data analysis** projects through quantitive techniques like *Item Response Theory (IRT)* , *Classical Test Theory (CTT)* , *Linear Regression*, and *High-Level Modeling (HLM)*.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the future, I hope to work on combining AI with education tools to promote **automation** and **personalization** in CS education. 
+
